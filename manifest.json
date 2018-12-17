@@ -10,8 +10,8 @@
     },
    "theme": {
       "colors": {
-        "frame": [40,42,54],
-        "frame_inactive": [40,42,66,0.6],
+        "frame": [50,52,70],
+        "frame_inactive": [40,42,66,0.4],
         "frame_incognito": [0,0,0,0.8],
         "frame_incognito_inactive": [0,0,0,0.6],
         "toolbar": [68,71,90],
